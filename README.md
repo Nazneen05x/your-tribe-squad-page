@@ -1,6 +1,6 @@
 <h1> Your-tribe-squad-page (4 eyes 🤓) </h1>
 
-![image](https://user-images.githubusercontent.com/112861261/192102737-1ef6fd55-4f86-422d-bd0e-3e77315271d7.png)
+![image](https://user-images.githubusercontent.com/112861261/192107182-8eb19527-e8d5-4520-830b-1c2668f98365.png)
 
 
 <h3>📚 INHOUDSOPGAVE</h3>
