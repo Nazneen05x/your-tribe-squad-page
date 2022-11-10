@@ -59,6 +59,9 @@
 
 <p> De squad page kan je bekijken op alle schermen. De doel was ook om ons squad page responsive (mobile first) te maken, Zodat je onze squad page op alle schermen kunt bekijken.</p>
 
+![image](https://user-images.githubusercontent.com/112861261/201071416-f61be7fc-981a-4499-bba7-f2e8460692f4.png)
+
+
 <h3>
 
 🌐 BRONNEN
