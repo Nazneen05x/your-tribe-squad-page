@@ -61,7 +61,7 @@
 
 ![image](https://user-images.githubusercontent.com/112861261/201071416-f61be7fc-981a-4499-bba7-f2e8460692f4.png)
 
-Bekijk hier, hoe ik het heb gemaakt: https://github.com/Nazneen05x/your-tribe-squad-page/wiki/Bouwen-%F0%9F%8F%97%EF%B8%8F
+<strong>Bekijk hier, hoe ik het heb gemaakt:</strong> https://github.com/Nazneen05x/your-tribe-squad-page/wiki/Bouwen-%F0%9F%8F%97%EF%B8%8F
 
 <h3>
 
